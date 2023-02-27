@@ -14,8 +14,11 @@ Comenzi:
 -cd ..: ne intoarcem inapoi cu un folder
 -ls: arata fisierele din folderul actual
 -git clone "url": copiaza un git repository 
+-git config --global user.name "your_username"
+-git config --global user.email "your_email_address@example.com"
 -git config --global --list: check your configuration
 -git status
 -git add
 -git commit
 -git push
+-git config --global credential.helper store: salveaza creditialele
