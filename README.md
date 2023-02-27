@@ -22,6 +22,6 @@ Comenzi:
 -git commit
 -git push
 -git config --global credential.helper store: salveaza creditialele
+-ssh-keygen -t rsa -b 4096 -C "your_email@example.com": generezi o cheie SSH
 
 
-jhfdif
