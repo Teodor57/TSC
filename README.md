@@ -14,5 +14,8 @@ Comenzi:
 -cd ..: ne intoarcem inapoi cu un folder
 -ls: arata fisierele din folderul actual
 -git clone "url": copiaza un git repository 
--git config --global --list: inca nu stim ce face asta
-
+-git config --global --list: check your configuration
+-git status
+-git add
+-git commit
+-git push
