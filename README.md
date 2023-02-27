@@ -22,3 +22,6 @@ Comenzi:
 -git commit
 -git push
 -git config --global credential.helper store: salveaza creditialele
+
+
+jhfdif
